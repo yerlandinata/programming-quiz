@@ -1,12 +1,12 @@
-# Python: easy
+# Python: Easy#1
 
 ### Instruction
-First, try not to:
+DO NOT:
 1. Run the program
 2. Google search
 2. Using AI to help explaining
 
-When you think you've already spent so much time but still don't get it yet, try (1) first, and then if still not enough try (2), and then (3).
+If you alredy spent too much time but still don't get it yet, then you can try (1) running the program. Google search is still okay, but don't use AI.
 
 ### Code#1
 ```python
